@@ -1,0 +1,28 @@
+name: Metta Investments
+favicon: null
+layout_spectrum: 0.38760473346337676
+typography_spectrum: 0.5467281215824187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5117332378868014
+  lightness: 0.4394755365792662
+  saturation: 0.7557421638630331
+  rhythmicContrast: 0.06450007297098637
+purpose: []
